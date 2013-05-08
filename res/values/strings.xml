@@ -3,7 +3,10 @@
 
     <string name="app_name">PDIAProject</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="edit_message">Digite a merda da mensagem</string>
+    <string name="next_screen">Clique aqui</string>
+    <string name="image_name">Ainda Bem!</string>
+    
+   	
+    
 
 </resources>
