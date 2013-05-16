@@ -11,7 +11,6 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import android.app.Activity;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.Canvas;
 import android.os.Bundle;
 import android.widget.ImageView;
 
